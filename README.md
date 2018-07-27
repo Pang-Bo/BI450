@@ -39,7 +39,7 @@ A: https://www.visualstudio.com/</br>
    https://www.qt.io/</br>
    
 Q: How to install Qt Visual Studio Tools in VS and configure it?</br>
-A: TOOLS > Extensions and Updates > research "Qt Visual Studio Tools"> install</br>
+A: TOOLS > Extensions and Updates > search "Qt Visual Studio Tools"> install</br>
    Then you will find "QT VS TOOLS" in menu bar. </br>
    QT VS TOOLS > Qt Options > Add > Edit the "version name" like 'VS2013_QT5.6' and choose the "Path" where you install Qt</br>
    Now you can creat a Qt project in VS.</br>
