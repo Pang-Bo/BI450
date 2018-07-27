@@ -27,18 +27,22 @@ This course is aimed to implement [proof of concept](https://en.wikipedia.org/wi
 ### FAQ
 Q: How can I use the USB-4704?  
 A: TBD  
+
 Q: How can I use the Analog Discovery?  
 A: TBD  
-Q: Difference between Instant AI and Buffered AI?
-A: TBD
-Q: How to download Microsoft Visual Studio or Qt Creator?
-A: https://www.visualstudio.com/
-   https://www.qt.io/
-Q: How to install Qt Visual Studio Tools in VS and configure it?
-A: TOOLS > Extensions and Updates > research "Qt Visual Studio Tools"> install
-   Then you will find "QT VS TOOLS" in menu bar. 
-   QT VS TOOLS > Qt Options > Add > Edit the "version name" like 'VS2013_QT5.6' and choose the "Path" where you install the Qt
-   Now you can creat a Qt project in VS.
+
+Q: Difference between Instant AI and Buffered AI?</br>
+A: TBD</br>
+
+Q: How to download Microsoft Visual Studio or Qt Creator?</br>
+A: https://www.visualstudio.com/</br>
+   https://www.qt.io/</br>
+   
+Q: How to install Qt Visual Studio Tools in VS and configure it?</br>
+A: TOOLS > Extensions and Updates > research "Qt Visual Studio Tools"> install</br>
+   Then you will find "QT VS TOOLS" in menu bar. </br>
+   QT VS TOOLS > Qt Options > Add > Edit the "version name" like 'VS2013_QT5.6' and choose the "Path" where you install Qt</br>
+   Now you can creat a Qt project in VS.</br>
 
 
 
