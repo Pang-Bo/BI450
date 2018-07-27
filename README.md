@@ -31,6 +31,17 @@ Q: How can I use the Analog Discovery?
 A: TBD  
 Q: Difference between Instant AI and Buffered AI?
 A: TBD
+Q: How to download Microsoft Visual Studio or Qt Creator?
+A: https://www.visualstudio.com/
+   https://www.qt.io/
+Q: How to install Qt Visual Studio Tools in VS and configure it?
+A: TOOLS > Extensions and Updates > research "Qt Visual Studio Tools"> install
+   Then you will find "QT VS TOOLS" in menu bar. 
+   QT VS TOOLS > Qt Options > Add > Edit the "version name" like 'VS2013_QT5.6' and choose the "Path" where you install the Qt
+   Now you can creat a Qt project in VS.
+
+
+
 
 ### Lectures
 * [*Lecture 0*](https://github.com/SJTUCourse/BI450/blob/master/Lectures/2016%20Fall/Lecture%200/Lecture%200.ppt)
